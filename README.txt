@@ -1,0 +1,2 @@
+pytorch_model.best is the pretrained model for MSR-VTT. 
+Unfortunately, we found that the anonymous link could not display too large files, so we published the trained model in XXX, which is also an anonymous link.}
